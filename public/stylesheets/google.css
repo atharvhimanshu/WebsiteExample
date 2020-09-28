@@ -1,0 +1,62 @@
+#center
+{
+  text-align: center;
+font-size:200 ;
+}
+
+#googlesearch
+{ 
+  text-align: center;
+ width: 100% ;
+ height: 100;
+}
+
+#searchId
+{
+  width: 600;
+  height:50 ;
+   font-size:30 ;
+   border-radius: 50px;
+   border:none ;
+   box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+   padding: 29px;
+   font-size: 35;
+
+}
+
+#yotube
+{
+  font-size:40 ;
+  border-radius: 100%;
+  width: 80;
+  height: 80;
+}
+
+#yotubeDiv
+{
+
+  text-align: center;
+}
+
+#tableID
+{
+   /* text-align: center;  */
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: separate;
+  border-spacing: 0 45px;
+}
+
+#tableDIV
+{
+  text-align: center;
+}
+
+
+
+
+
+
+
+

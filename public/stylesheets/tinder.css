@@ -1,0 +1,30 @@
+body{
+
+}
+#tinderDiv
+{
+    text-align: center;
+}
+
+#tinderId
+{
+    height:650px ;
+    width: 650px; 
+} 
+
+#btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width:50%;
+}
+#likePhoto
+{
+    background: image 1;
+}
+
+#dislikePhoto
+{
+    text-align:right;    
+}

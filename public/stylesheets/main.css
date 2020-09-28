@@ -1,0 +1,173 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.coronavirus
+{
+color:black;
+}
+h1
+{
+  color:rgba(105, 98, 105, 0.425);
+  font-size: 60;
+  font-weight:300;
+}
+body
+{
+  text-align: center;
+}
+  .coronacases
+  {
+    color:gray;
+    font-weight: 800;
+  }
+  
+  
+  .right
+{
+  color:red ;
+}
+.light
+{
+  color:orange ;
+  font-size:60 ;
+  font-weight: 800;
+}
+
+.fight
+{
+  color:greenyellow;
+}
+.bright
+{
+  color:rgba(51, 0, 255, 0.274);
+  font-size:60 ;
+  font-weight:800 ;
+}
+
+table, td 
+
+{
+  border: 5px solid rgb(95, 43, 43);
+  text-align: center;
+}
+
+table, th 
+{
+  border: 5px solid rgb(47, 255, 29);
+  text-align: center;
+}
+
+  #victry
+   {
+    
+     width: 100%;
+    
+   }
+    
+   .totalerec
+   {
+     background-color:rgba(13, 219, 13, 0.562);
+   }
+
+
+   .casestimes
+   {
+     background-color:rgba(255, 251, 0, 0.493); 
+   }   
+
+   #redsell
+   {
+     background-color: #ecc51977;
+     text-align: center;
+   }
+
+   #greensell
+   {
+     background-color: #ffc40077;
+     text-align: center;
+   }
+
+   #rightsell
+   {
+     background-color: #ffc40077;
+     text-align: center;
+   }
+
+   #lightsell
+   {
+     background-color: #ffc40077;
+     text-align: center;
+   }
+
+   #brightsell
+   {
+     background-color: #ffc40077;
+     text-align: center;
+   }
+
+   #fightsell
+   {
+     background-color: #ffc40077;
+     text-align: center;
+   }
+.deaths
+{
+  background-color:rgba(255, 0, 0, 0.623); 
+}
+
+   #sells
+   {
+     background-color: #ff000077;
+     text-align: center;
+   }
+
+   #red
+   {
+     background-color: #ff000077;
+     text-align: center;
+   }
+
+   #green
+   {
+     background-color: #ff000077;
+     text-align: center;
+   }
+   
+   #light
+   {
+     background-color: #ff000077;
+     text-align: center;
+   }
+
+
+   #bright
+   {
+     background-color: #ff000077;
+     text-align: center;
+   }
+
+#country
+{
+  font-size:30 ;
+ font-width:20;
+}
+
+#world
+{
+  font-size:20 ;
+  font-weight:10 ;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+
