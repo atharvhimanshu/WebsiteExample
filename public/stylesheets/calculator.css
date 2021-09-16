@@ -1,0 +1,25 @@
+#center {
+ 
+}
+
+#calciId
+{
+  size: 190;
+}
+
+table, tr, td {
+  height: 80px;
+  align-content:  center;
+}
+
+table, tr, td, button {
+  width: 100px;
+  height: 80px;
+  align-content:  center;
+}
+
+#fname
+{
+  height:80 ;
+  width: 380;
+}

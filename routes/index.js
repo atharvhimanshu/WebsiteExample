@@ -25,4 +25,9 @@ router.get('/youtube', function(req, res, next) {
     res.sendFile(path.join(__dirname + '/../public/test2Pubg.html'));
     });
 
+
+    router.get('/calci', function(req, res, next) {
+      res.sendFile(path.join(__dirname + '/../public/calculator.html'));
+      });
+
 module.exports = router;

@@ -12,3 +12,4 @@ function manjeet()
 {
 document.getElementById("pubgPlay").innerHTML = "see you tomorro"
 }
+
